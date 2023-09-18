@@ -1,13 +1,34 @@
-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap:1vw;
+div{
+
 }
 
 .dropdown{
-    border: 2px solid #76C1AE;
-    width:50px;
-    height: 50px;
+}
+
+/* 
+h2{
+    border: 2px solid black;
+    padding:30px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin: 30px;
+
+} */
+
+.artikel_container{
+    display: flex;
+    flex-direction: row;
+}
+div{
+    border:2px solid black;
+    margin:20px;
+    padding: 10px;
+}
+.vit_text_svart_bakgrund{
+    color:white;
+    background-color: black;
+}
+
+.text_stor{
+    font-size: larger;
 }

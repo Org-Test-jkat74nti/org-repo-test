@@ -1,11 +1,23 @@
-header{
+
+
+
+.artikel_container{
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap:1vw;
+}
+div{
+    border:2px solid black;
+    margin:20px;
+    padding: 10px;
+}
+.vit_text_svart_bakgrund{
+    color:white;
+    background-color: black;
 }
 
+.text_stor{
+    font-size: larger;
+}
 .dropdown{
     border: 2px solid #76C1AE;
     width:50px;

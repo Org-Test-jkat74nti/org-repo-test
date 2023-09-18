@@ -1,19 +1,5 @@
-div{
 
-}
 
-.dropdown{
-}
-
-/* 
-h2{
-    border: 2px solid black;
-    padding:30px;
-    padding-top:5px;
-    padding-bottom: 5px;
-    margin: 30px;
-
-} */
 
 .artikel_container{
     display: flex;
@@ -31,4 +17,13 @@ div{
 
 .text_stor{
     font-size: larger;
+}
+.dropdown{
+    border: 2px solid #76C1AE;
+    width:50px;
+    height: 50px;
+}
+
+header h1{
+    background-color: rgb(118,194,175);
 }
